@@ -70,7 +70,6 @@
 127.0.0.1	mwzeom.zeotap.com
 127.0.0.1	t.adx.opera.com
 127.0.0.1	simage4.pubmatic.com
-127.0.0.1	fonts.gstatic.com
 127.0.0.1	sync.vistarsagency.com
 127.0.0.1	pixel-sync.sitescout.com
 127.0.0.1	green.erne.co
